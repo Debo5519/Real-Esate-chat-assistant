@@ -1,2 +1,3 @@
-# Real-Esate-chat-assistant
-Real Estate Assistant For The DeBernardis Group
+# JCD Chat Assistant
+
+A public GPT-powered chatbot for property management and real estate. Built with Next.js and OpenAI API.
